@@ -25,8 +25,7 @@ Thank you for using our invoice app! If you have any questions, issues, or sugge
 
 If you’re unable to find the answers you’re looking for, please reach out via:
 
-**Email**: [ahernandez2501@gmail.com](mailto:ahernandez2501@gmail.com)  
-**Phone**: 813-748-1560
+**Email**: [ahernandez2501@gmail.com](mailto:ahernandez2501@gmail.com)
 
 We aim to respond to all inquiries within 24-48 hours.
 
